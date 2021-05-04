@@ -2,7 +2,7 @@ import React from "react";
 
 function Search(props) {
     return (
-        <div className="col-6 d-inline">
+        <div className="search col-6 d-inline ">
             <input
             value={props.value}
             onChange={props.handleInputChange}

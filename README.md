@@ -2,8 +2,22 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## About
+* Employee directory where you can search for employees and sort them by alphabetization. 
+* Employees where given by https://randomuser.me/ api.
 
+## Technologies used
+* bootsrap
+* gh-pages
+* axios
+* react
+
+
+## Deployed Page
+https://fidel-bello.github.io/deploy-react/
+
+
+## Available Scripts
 In the project directory, you can run:
 
 ### `npm start`
