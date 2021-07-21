@@ -72,7 +72,7 @@ function Container() {
     const changeButtonText = e => {
         e.preventDefault();
 
-        if (buttonText === "Sort") {
+        if (buttonText === "Sort") {        //
             setButtonText("Reset");
             const sortUsers = users.sort((a, b) => a.name.last.localeCompare(b.name.last));
             setUsers(sortUsers);
