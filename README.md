@@ -13,7 +13,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 * react
 
 
-## Deployed Page
+## Deployed Page React
 https://fidel-bello.github.io/deploy-react/
 
 
